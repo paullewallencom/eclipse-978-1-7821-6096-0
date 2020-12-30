@@ -1,0 +1,12 @@
+<root>
+  <facet id="jst.jsf">
+    <node name="libprov">
+      <attribute name="provider-id" value="wls-shared-library-provider-jsf-1.2"/>
+    </node>
+  </facet>
+  <facet id="jst.jsf.trinidad">
+    <node name="libprov">
+      <attribute name="provider-id" value="user-library-provider-jsf-trinidad"/>
+    </node>
+  </facet>
+</root>
